@@ -1,9 +1,9 @@
 [
   {
-    "item_category": "Cars (China to Uganda)",
-    "import_duty": 25,
+    "item_category": "Phones",
+    "import_duty": 10,
     "vat": 18,
     "wht": 6,
-    "minor_fees": 2
+    "minor_fees": 2.5
   }
 ]
