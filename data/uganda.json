@@ -1,9 +1,9 @@
 [
   {
-    "item_category": "Television",
-    "import_duty": 20,
+    "item_category": "Televisions",
+    "import_duty": 25,
     "vat": 18,
-    "wht": 6,
-    "minor_fees": 5
+    "wht": 0,
+    "minor_fees": 0
   }
 ]
