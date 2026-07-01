@@ -1,0 +1,29 @@
+[
+  {
+    "hs_code": "847130",
+    "item_category": "Laptops & Tablets",
+    "import_duty": 0,
+    "vat": 16,
+    "wht": 5,
+    "minor_fees": 1,
+    "idf": 2.5
+  },
+  {
+    "hs_code": "851712",
+    "item_category": "Smartphones & Devices",
+    "import_duty": 25,
+    "vat": 16,
+    "wht": 5,
+    "minor_fees": 1,
+    "idf": 2.5
+  },
+  {
+    "hs_code": "852872",
+    "item_category": "Televisions & Displays",
+    "import_duty": 25,
+    "vat": 16,
+    "wht": 5,
+    "minor_fees": 1.5,
+    "idf": 2.5
+  }
+]
